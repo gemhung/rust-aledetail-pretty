@@ -1,2 +1,4 @@
-# rust_aledetail_pretty
-Make ale detail color
+## Install
+`Plug 'gemhung/rust_aledetail_pretty'`
+
+
