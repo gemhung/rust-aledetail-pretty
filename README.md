@@ -1,3 +1,5 @@
+## A vim extension to make `ALEDetail` colorful for `Rust` lang
+
 ## Install
 ```vim
 Plug 'gemhung/rust-aledetail-pretty'
