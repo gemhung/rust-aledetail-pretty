@@ -1,6 +1,7 @@
 ## Install
-`Plug 'gemhung/rust-aledetail-pretty'`
-
+```vim
+Plug 'gemhung/rust-aledetail-pretty'
+```
 ## Before
 ![image](https://user-images.githubusercontent.com/34207794/221363736-695d69a6-067b-4589-b6d1-c85affa45782.png)
 
