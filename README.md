@@ -3,7 +3,7 @@
 ## Install
 ```vim
 Plug 'dense-analysis/ale'
-Plug 'gemhung/rust-aledetail-pretty'
+Plug 'gemhung/rust-aledetail-pretty.vim'
 ```
 
 ## Before
